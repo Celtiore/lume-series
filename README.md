@@ -14,7 +14,7 @@ signature, trois apps côte à côte sur le launcher.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeSeries-x.y.z.apk`.
 
-Version actuelle : **1.0.0**.
+Version actuelle : **1.0.1**.
 
 ## ✨ Fonctionnalités (v1.0.0)
 
