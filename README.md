@@ -14,7 +14,7 @@ signature, trois apps côte à côte sur le launcher.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeSeries-x.y.z.apk`.
 
-Version actuelle : **1.0.2**.
+Version actuelle : **1.0.3**.
 
 ## ✨ Fonctionnalités (v1.0.0)
 
@@ -29,11 +29,11 @@ Version actuelle : **1.0.2**.
   peuvent reprendre (et inversement)
 - 🔄 **Mises à jour intégrées** (depuis les Releases GitHub)
 - Import des identifiants depuis LumeTV en un OK (1.0.2), comptes multiples et Réglages (Comptes, À propos, vérification manuelle des mises à jour).
+- ⏯️ **Reprise de lecture** (1.0.3) : « Continuer S01E05 à … » sur la fiche série, badges ✓ et barre de progression dans la liste des épisodes, reprise après Home ou redémarrage, catégorie « ▶ En cours », « Effacer l'historique de lecture » dans Réglages › Lecture.
+- 🚪 **Confirmation de sortie** (1.0.3) : Retour depuis le catalogue demande « Quitter LumeSeries ? ».
 
 ## 🗺️ Prochainement
 
-- Import des identifiants depuis LumeTV (sans ressaisie)
-- Reprise de lecture (« Reprendre à … »)
 - Affiches et synopsis enrichis (TMDB)
 
 ## 🔧 Installation
